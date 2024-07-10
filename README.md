@@ -3,9 +3,6 @@
 - 👀 I’m interested in ...
 * I am interested in software development, both front and back end
 
-- 🌱 I’m currently learning ...
-* I am currently a freshman in college and am learning Python, and javascript
-
 - 📫 How to reach me ...
 * email: dawsonpowell07@gmail.com
 
